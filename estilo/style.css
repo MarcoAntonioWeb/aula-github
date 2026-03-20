@@ -4,6 +4,7 @@
 
 body {
     background-color: aqua;
+    background-color: azure;
 }
 
 main {
@@ -11,3 +12,15 @@ main {
     height: auto;
     background-color: azure;
 }
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+}
+
+            
+        
+   
